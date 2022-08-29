@@ -1,0 +1,15 @@
+print('and')
+print(3 > 2 and 4 > 1)
+print(3 > 5 and 4 > 1)
+print(3 > 2 and 4 > 7)
+print(1 > 2 and 4 > 10)
+
+print('or')
+print(3 > 2 or 4 > 1)
+print(3 > 5 or 4 > 1)
+print(3 > 2 or 4 > 7)
+print(1 > 2 or 4 > 10)
+
+print('not')
+print(not 3 > 6)
+print(not 3 < 6)

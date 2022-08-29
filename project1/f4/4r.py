@@ -1,0 +1,6 @@
+f1 = open('new1', 'w')
+f1.writelines(['hi\n', 'hello\n', 'i am ajay'])
+f1.close()
+f2 = open('new1', 'r')
+print(f2.read())
+f2.close()

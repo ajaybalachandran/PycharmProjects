@@ -1,0 +1,8 @@
+file = open('hello.txt', 'w')
+file.write('hai i am inmakes')
+file = open('hello.txt', 'a')
+file.write(' i am from kollam')
+file = open('hello.txt', 'r')
+content = file.read()
+print(content)
+file.close()

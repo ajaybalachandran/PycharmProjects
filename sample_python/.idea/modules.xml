@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Greek_for_Greek/.idea/Greek_for_Greek.iml" filepath="$PROJECT_DIR$/../Greek_for_Greek/.idea/Greek_for_Greek.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../course1/.idea/Inmakes.iml" filepath="$PROJECT_DIR$/../course1/.idea/Inmakes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Luminar_python/.idea/Luminar_python.iml" filepath="$PROJECT_DIR$/../Luminar_python/.idea/Luminar_python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/code_with_harry.iml" filepath="$PROJECT_DIR$/.idea/code_with_harry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../interview/.idea/interview.iml" filepath="$PROJECT_DIR$/../interview/.idea/interview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../my_programs/.idea/my_programs.iml" filepath="$PROJECT_DIR$/../my_programs/.idea/my_programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../packagess/.idea/packagess.iml" filepath="$PROJECT_DIR$/../packagess/.idea/packagess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../project1/.idea/project1.iml" filepath="$PROJECT_DIR$/../project1/.idea/project1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../riv/.idea/riv.iml" filepath="$PROJECT_DIR$/../riv/.idea/riv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../w3exercices/.idea/w3exercices.iml" filepath="$PROJECT_DIR$/../w3exercices/.idea/w3exercices.iml" />
+    </modules>
+  </component>
+</project>

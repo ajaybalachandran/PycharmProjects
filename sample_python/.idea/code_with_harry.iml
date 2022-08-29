@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Luminar_python" />
+    <orderEntry type="module" module-name="project1" />
+    <orderEntry type="module" module-name="Inmakes" />
+    <orderEntry type="module" module-name="w3exercices" />
+    <orderEntry type="module" module-name="my_programs" />
+    <orderEntry type="module" module-name="Greek_for_Greek" />
+    <orderEntry type="module" module-name="packagess" />
+    <orderEntry type="module" module-name="riv" />
+    <orderEntry type="module" module-name="interview" />
+  </component>
+</module>

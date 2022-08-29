@@ -1,0 +1,6 @@
+f1 = open('new1', 'w')
+f1.write('This is first')
+f1.close()
+f2 = open('new1', 'a')
+f2.write('\nthis is 2nd')
+f2.close()

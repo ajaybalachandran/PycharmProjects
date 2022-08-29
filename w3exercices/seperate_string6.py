@@ -1,0 +1,5 @@
+str1 = input('Enter streng separated by commas:')
+list1 = str1.split(',')
+tuple1 = tuple(list1)
+print(f'List is: {list1}')
+print(f'Tuple is: {tuple1}')

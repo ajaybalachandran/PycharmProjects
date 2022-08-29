@@ -1,0 +1,6 @@
+tuple1 = (12, 13, 'hello', 'python')
+tuple2 = tuple((1, 2, 3, 5))
+print(len(tuple1))
+print(tuple2)
+print(tuple1 + tuple2)
+print(tuple2*3)
